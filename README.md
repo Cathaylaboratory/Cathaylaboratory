@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am a 24 years-old Asian language developer based on UK.
+## I am a 24 years-old Asian-language digitalization developer based on UK.
 ## My langugages
 I use Chinese, Shanghainese, English and Cantonese. 
 I am also familiar with Vietnamese and Taiwanese.
