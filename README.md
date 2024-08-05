@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Cathaylaboratory/Cathaylaboratory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I am a 24 years old Asian language developer based on UK.
-My langugae
+I am a 24 years-old Asian language developer based on UK.
+My langugages
 I use Chinese, Shanghainese, English and Cantonese. 
 I am also familiar with Vietnamese and Taiwanese.
 I acknowledge the writing system of Korean, Japanese, Thai, Deutsch, French, and Russian.
